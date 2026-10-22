@@ -1,4 +1,4 @@
-# OOP with Python – Assignment 2, Advent 2026
+# OOP with Python – Assignment 1, Advent 2026
 
 ## Student submission package
 
